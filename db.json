@@ -4,14 +4,14 @@
         "name": "Alyssa",
         "age": 18,
         "location": "Lilongwe",
-        "services":["GFE","OWO","DFK"],
+        "services":["GFE","OWO","DFK"]
     },
     {
         "id": 2,
         "name": "Nikki",
         "age": 21,
         "location": "Lilongwe",
-        "services":["GFE","OWO","DFK","A-Level","Stripper"],
+        "services":["GFE","OWO","DFK","A-Level","Stripper"]
    
     },
     {
@@ -19,7 +19,7 @@
         "name": "Rachel",
         "age": 19,
         "location": "Lilongwe",
-        "services":["GFE"],
+        "services":["GFE"]
  
     },
     {
@@ -27,21 +27,21 @@
         "name": "Becca",
         "age": 24,
         "location": "Lilongwe",
-        "services":["Massage Only","Stripper"],
+        "services":["Massage Only","Stripper"]
     },
     {
         "id": 5,
         "name": "Sarah",
         "age": 22,
         "location": "Blantyre",
-        "services":["GFE","A-Level","DFK"],
+        "services":["GFE","A-Level","DFK"]
     },
     {
         "id": 6,
         "name": "Eve",
         "age": 30,
         "location": "Blantyre",
-        "services":["Milf", "Golden Showers"],
+        "services":["Milf", "Golden Showers"]
     }
 
 ]
