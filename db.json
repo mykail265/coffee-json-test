@@ -5,8 +5,6 @@
         "age": 18,
         "location": "Lilongwe",
         "services":["GFE","OWO","DFK"],
-        "rate":50000,
-        "img":"./images/pic0.jpeg"
     },
     {
         "id": 2,
@@ -14,8 +12,7 @@
         "age": 21,
         "location": "Lilongwe",
         "services":["GFE","OWO","DFK","A-Level","Stripper"],
-        "rate":45000,
-        "img":"./images/pic1.jpg"
+   
     },
     {
         "id": 3,
@@ -23,8 +20,7 @@
         "age": 19,
         "location": "Lilongwe",
         "services":["GFE"],
-        "rate":30000,
-        "img":"./images/pic3.jpg"
+ 
     },
     {
         "id": 4,
@@ -32,8 +28,6 @@
         "age": 24,
         "location": "Lilongwe",
         "services":["Massage Only","Stripper"],
-        "rate":500000,
-        "img":"./images/pic2.jpeg"
     },
     {
         "id": 5,
@@ -41,8 +35,6 @@
         "age": 22,
         "location": "Blantyre",
         "services":["GFE","A-Level","DFK"],
-        "rate":50000,
-        "img":"./images/pic5.jpeg"
     },
     {
         "id": 6,
@@ -50,8 +42,6 @@
         "age": 30,
         "location": "Blantyre",
         "services":["Milf", "Golden Showers"],
-        "rate":200000,
-        "img":"./images/pic5.jpg"
     }
 
 ]
